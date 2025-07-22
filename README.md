@@ -94,8 +94,6 @@ Assets/
 
 ---
 
-本プロジェクトは教育用またはカジュアルゲーム開発のテンプレートとしても活用可能です
-
 
 
 ![Image](https://github.com/user-attachments/assets/1f4917af-d119-44a3-a621-ed37c285c966)
